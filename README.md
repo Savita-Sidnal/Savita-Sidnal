@@ -14,15 +14,6 @@ Whether it's clean interfaces, smart logic, or ethical design — I strive for e
 
 ---
 
-## 🧠 Core Beliefs
-
-- 🧩 **Clarity before cleverness** — Code should be readable, not just runnable.  
-- 🌱 **Simplicity is strength** — The most powerful solutions often feel obvious in hindsight.  
-- 🤝 **Collaboration > competition** — Tech is a team sport.  
-- 🌍 **Purpose fuels progress** — Good code changes lives, not just screens.  
-
----
-
 ## 🛠️ My Toolbox
 
 | Domain         | Tools & Technologies                                  |
