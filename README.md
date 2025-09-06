@@ -1,7 +1,6 @@
 <h1 align="center">✨ Hey there, I'm Savita Sidnal! ✨</h1>
 
 <p align="center">
-  <em>Engineer. Curious Soul.</em><br>
   <em>Shaping ideas into systems, and learning through building.</em>
 </p>
 
